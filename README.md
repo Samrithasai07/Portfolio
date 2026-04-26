@@ -327,7 +327,7 @@ nav a:hover {
 /* CARD */
 .project-card {
     background: #1c1c1c;
-    padding: 25px;
+    padding: 40px;
     width: 280px;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0,0,0,0.5);
@@ -406,22 +406,19 @@ nav a:hover {
     }
 }
 
+
 ```
-
-
 ## OUTPUT
-<img width="1885" height="1114" alt="image" src="https://github.com/user-attachments/assets/32c78d84-9aff-4ea4-a4b0-e35066bef182" />
-
-<img width="1879" height="1106" alt="image" src="https://github.com/user-attachments/assets/dee072c8-4f0b-4f00-82ac-473f56c58be0" />
+<img width="1920" height="1200" alt="Screenshot 2026-04-26 202308" src="https://github.com/user-attachments/assets/c8c114f6-260e-4304-9d56-a121c2dc82de" />
 
 
-<img width="1881" height="1127" alt="image" src="https://github.com/user-attachments/assets/52e41a9d-f758-4579-b647-cb6a10463e3c" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/3c4e595b-7c66-466d-be44-70c07acf6ca3" />
 
 
-<img width="1881" height="1123" alt="image" src="https://github.com/user-attachments/assets/a802ffc1-878f-4478-b9c0-0b3b36ff7cd2" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/d24ad2e9-182a-4ad4-b32e-260ab8281e84" />
 
 
 
-
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/25d14b52-fbb5-48db-97b6-af544c2393b2" />
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
