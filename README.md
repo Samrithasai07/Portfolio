@@ -415,10 +415,11 @@ nav a:hover {
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/3c4e595b-7c66-466d-be44-70c07acf6ca3" />
 
 
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/d24ad2e9-182a-4ad4-b32e-260ab8281e84" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/ad453add-f74b-4f9c-a7a3-3478dca44e5c" />
 
 
 
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/25d14b52-fbb5-48db-97b6-af544c2393b2" />
+
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
