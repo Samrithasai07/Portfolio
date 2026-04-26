@@ -411,7 +411,7 @@ nav a:hover {
 
 ## OUTPUT
 <img width="1885" height="1114" alt="image" src="https://github.com/user-attachments/assets/32c78d84-9aff-4ea4-a4b0-e35066bef182" />
-<img width="1883" height="1117" alt="image" src="https://github.com/user-attachments/assets/f8885758-3883-4f16-a3da-a94d9be365e6" />
+<img width="1879" height="1106" alt="image" src="https://github.com/user-attachments/assets/dee072c8-4f0b-4f00-82ac-473f56c58be0" />
 <img width="1881" height="1127" alt="image" src="https://github.com/user-attachments/assets/52e41a9d-f758-4579-b647-cb6a10463e3c" />
 <img width="1881" height="1123" alt="image" src="https://github.com/user-attachments/assets/a802ffc1-878f-4478-b9c0-0b3b36ff7cd2" />
 
