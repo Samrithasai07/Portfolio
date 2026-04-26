@@ -410,10 +410,11 @@ nav a:hover {
 
 
 ## OUTPUT
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ca1e3faa-57ea-4629-b6b2-1eeb5eb302c1" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/24542950-2396-42c0-bbe6-a17786b37d11" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d02cdd60-f3ef-4545-aa1c-199cf2771bac" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/dcdc1787-d3f6-4669-a851-7e15490f62bc" />
+<img width="1885" height="1114" alt="image" src="https://github.com/user-attachments/assets/32c78d84-9aff-4ea4-a4b0-e35066bef182" />
+<img width="1883" height="1117" alt="image" src="https://github.com/user-attachments/assets/f8885758-3883-4f16-a3da-a94d9be365e6" />
+<img width="1881" height="1127" alt="image" src="https://github.com/user-attachments/assets/52e41a9d-f758-4579-b647-cb6a10463e3c" />
+<img width="1881" height="1123" alt="image" src="https://github.com/user-attachments/assets/a802ffc1-878f-4478-b9c0-0b3b36ff7cd2" />
+
 
 
 
